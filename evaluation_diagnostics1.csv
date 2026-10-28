@@ -1,0 +1,9 @@
+Metric,Value
+aspect_mentions,29526.0
+unique_products_with_aspects,5795.0
+unique_aspects,7.0
+positive_fraction,0.5597778229357177
+negative_fraction,0.42711508500982187
+neutral_fraction,0.013107092054460475
+mean_sentiment_model_confidence,0.970919639154767
+product_aspect_groups,16319.0
